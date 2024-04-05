@@ -1,4 +1,4 @@
-#tl1-tp1-2024-jraok
+# tl1-tp1-2024-jraok
 ## 2a-Investigar el archivo .gitignore ¿Por qué es conveniente incluirlo?¿Cuándo se debe hacer?¿Cómo configuraría el archivo .gitignore?
 	El archivo .gitignore es una lista que contiene las extensiones, carpetas y archivos los cuales no se desea incluir en el repositorio, es conveniente configurarla al comenzar a trabajar en el repositorio aunque no hay impedimento para agregarla luego.
 	Incluir este archivo en la carpeta de trabajo ayuda a mejorar la eficiencia, limpieza y orden del repositorio.
