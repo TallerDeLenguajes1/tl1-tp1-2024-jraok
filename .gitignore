@@ -1,0 +1,44 @@
+#archivos a ignorar
+*.tmp
+*.exe
+.vscode/
+ignorado.txt
+
+# Creado por https://www.toptal.com/developers/gitignore/api/c++
+# Editar en https://www.toptal.com/developers/gitignore?templates=c++
+
+### C++ ###
+# Requisitos previos
+*.d
+
+# Archivos de objetos compilados
+*.slo
+*.lo
+*.o
+*.obj
+
+# Encabezados precompilados
+*.gch
+*.pch
+
+# Bibliotecas dinámicas compiladas
+*.entonces
+*.dylib
+*.dll
+
+# Archivos del módulo Fortran
+*.modificación
+*.smod
+
+# Bibliotecas estáticas compiladas
+*.lai
+*.la
+*.a
+*.lib
+
+# Ejecutables
+*.exe
+*.afuera
+*.aplicación
+
+# Fin de https://www.toptal.com/developers/gitignore/api/c++
